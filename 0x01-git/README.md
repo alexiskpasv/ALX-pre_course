@@ -1,1 +1,1 @@
-this is my second readme document being created for the project
+The Js Directory was deleted,a new branch update_script was created
